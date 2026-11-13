@@ -2,5 +2,5 @@ beautifulsoup4==4.12.2
 bs4==0.0.2
 lxml==5.0.0
 selenium==4.24.0
-soupsieve==2.5
+soupsieve==4.0
 urllib3==2.2.2
